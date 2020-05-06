@@ -1,0 +1,29 @@
+
+
+ul{
+list-style-type: none;
+}
+ul a{
+  text-decoration: none !important;
+  color:black !important;
+}
+
+.is-active{
+  font-weight: 600;
+ background-size:200%;
+
+  
+}
+
+
+
+.profile  :active{
+
+  text-decoration-color: darkblue !important;
+}
+
+
+input:focus{  
+  box-shadow: none !important;
+  border-color: #FE6E63 !important;
+}
